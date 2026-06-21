@@ -28,12 +28,14 @@ app.listen(port, ()=>{
 
 //users
 //{
-//         "name": "Martynas",
-//         "email":"martynas@gmail.com",
-//         "password":"123"
+//         "name": "Lukas", // Same for everyone
+//         "email":"Lukas11@gmail.com", // Same for everyone
+//         "password":"Lukas11" // Same for everyone
+//         "role" : "simple" 
 //}
 // {
 //         "name": "Adminname",
 //         "email":"Admingmail@gmail.com",
 //         "password":"1234"
+//         "role" : "admin"
 // } 

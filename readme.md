@@ -1,6 +1,6 @@
 npm run dev = front start
 npx nodemon= backend start
-rafc = fast ract import
+rafc = fast react import
 
 BACKEND paleidimas:
  
